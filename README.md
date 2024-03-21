@@ -3,7 +3,7 @@ The application has been developed with React and materiallize CSS.
 
 I have been following several web pages such as technologies documentation and [w3schools](https://www.w3schools.com/react/react_getstarted.asp) 
 
-# How to did I created
+# How did I created
 - In order to create the React project structure, I used the following command:
 ```
 npm create-react-app <project_name>
